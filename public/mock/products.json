@@ -1,0 +1,172 @@
+[
+  {
+    "id": 0,
+    "name": "Мебель для офиса",
+    "address": {
+      "city": "Москва",
+      "street": "Проспект Мира"
+    },
+    "seller": "Офисная Мебель",
+    "type": "Мебель",
+    "description": "Продажа офисной мебели по выгодным ценам. Широкий ассортимент, высокое качество, быстрая доставка.",
+    "price": 5000,
+    "count": 10,
+    "dealType": "Прямые продажи",
+    "favorites": false,
+    "inDeals": true,
+    "isPayed": true
+  },
+  {
+    "id": 1,
+    "name": "Электроника и бытовая техника",
+    "address": {
+      "city": "Екатеринбург",
+      "street": "Улица Малышева"
+    },
+    "seller": "Техномир",
+    "type": "Электроника",
+    "description": "Распродажа бытовой техники и электроники. Скидки до 50% на все товары.",
+    "price": 15000,
+    "count": 5,
+    "dealType": "Аукцион",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 2,
+    "name": "Спортивное оборудование",
+    "address": {
+      "city": "Казань",
+      "street": "Улица Баумана"
+    },
+    "seller": "Спортлайн",
+    "type": "Спорт",
+    "description": "Спортивное оборудование для дома и зала. Высокое качество, доступные цены.",
+    "price": 8000,
+    "count": 7,
+    "dealType": "Прямые продажи",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 3,
+    "name": "Автозапчасти",
+    "address": {
+      "city": "Новосибирск",
+      "street": "Улица Ленина"
+    },
+    "seller": "Автомир",
+    "type": "Автозапчасти",
+    "description": "Продажа автозапчастей для всех марок автомобилей. Гарантия качества.",
+    "price": 3000,
+    "count": 20,
+    "dealType": "Аукцион",
+    "favorites": true,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 4,
+    "name": "Одежда и обувь",
+    "address": {
+      "city": "Ростов-на-Дону",
+      "street": "Улица Пушкинская"
+    },
+    "seller": "Модный Дом",
+    "type": "Одежда",
+    "description": "Стильная одежда и обувь по выгодным ценам. Широкий ассортимент.",
+    "price": 2500,
+    "count": 15,
+    "dealType": "Прямые продажи",
+    "favorites": true,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 5,
+    "name": "Косметика и парфюмерия",
+    "address": {
+      "city": "Самара",
+      "street": "Улица Куйбышева"
+    },
+    "seller": "Красота и Здоровье",
+    "type": "Косметика",
+    "description": "Косметика и парфюмерия от ведущих мировых брендов. Скидки до 30%.",
+    "price": 1000,
+    "count": 30,
+    "dealType": "Аукцион",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 6,
+    "name": "Книги и канцелярские товары",
+    "address": {
+      "city": "Нижний Новгород",
+      "street": "Улица Большая Покровская"
+    },
+    "seller": "Книжный Мир",
+    "type": "Книги",
+    "description": "Широкий ассортимент книг и канцелярских товаров. Выгодные цены.",
+    "price": 500,
+    "count": 50,
+    "dealType": "Прямые продажи",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 7,
+    "name": "Продукты питания",
+    "address": {
+      "city": "Казань",
+      "street": "Улица Баумана"
+    },
+    "seller": "Продуктовый Магазин",
+    "type": "Продукты",
+    "description": "Продукты питания высокого качества. Свежие и натуральные продукты.",
+    "price": 200,
+    "count": 100,
+    "dealType": "Аукцион",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 8,
+    "name": "Игрушки и товары для детей",
+    "address": {
+      "city": "Екатеринбург",
+      "street": "Улица Малышева"
+    },
+    "seller": "Детский Мир",
+    "type": "Игрушки",
+    "description": "Игрушки и товары для детей. Широкий ассортимент, доступные цены.",
+    "price": 1000,
+    "count": 20,
+    "dealType": "Прямые продажи",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  },
+  {
+    "id": 9,
+    "name": "Садовый инвентарь",
+    "address": {
+      "city": "Санкт-Петербург",
+      "street": "Красное Село"
+    },
+    "seller": "Садовый Центр",
+    "type": "Садовый инвентарь",
+    "description": "Садовый инвентарь и инструменты. Высокое качество, доступные цены.",
+    "price": 3000,
+    "count": 10,
+    "dealType": "Аукцион",
+    "favorites": false,
+    "inDeals": false,
+    "isPayed": false
+  }
+]
